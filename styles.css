@@ -1,7 +1,7 @@
 @keyframes background_anim {
-    0% {background-color: crimson;}
-    50% {background-color: brown; }
-        100% {background-color: #dc1818;}
+    0% {background-color: rgb(20, 197, 220);}
+    50% {background-color: rgb(42, 165, 54); }
+        100% {background-color: #18dc53;}
    
 }
 body{
